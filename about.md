@@ -6,7 +6,7 @@ permalink: /about/
 
 Hey there! My name is Alexander and this is my accountability blog while I work on an original fantasy novel.
 
-I'll try to post monthly updates on how it's going.
+I'll try to post monthly updates on how it's going, but I can't guarantee that it'll be a regular thing.
 
 ### Contact me
 Send me a message via github, I guess?
