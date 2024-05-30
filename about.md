@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey there! My name is Alexander and this is my accountability blog while I work on an original fantasy novel.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'll try to post monthly updates on how it's going.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Send me a message via github, I guess?
