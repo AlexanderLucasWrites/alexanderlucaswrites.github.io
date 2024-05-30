@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 30.5.2024
+title: Monthly Update - May 2024
 ---
 
 Right now I'm about 30.7k words into my first draft with roughly 6k written this month.
